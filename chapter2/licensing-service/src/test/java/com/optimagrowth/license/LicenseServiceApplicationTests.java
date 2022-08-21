@@ -7,7 +7,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 class LicenseServiceApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads()
+	 {
+		System.out.println("hy");
 	}
 
 }
